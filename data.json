@@ -1,51 +1,64 @@
 [
-    {
-        "id": 1,
-        "title": "Introduction to JavaScript",
-        "subject": "Computer Science",
-        "difficulty": "Easy",
-        "contentType": "Video"
-    },
-    {
-        "id": 2,
-        "title": "Advanced Python Programming",
-        "subject": "Python",
-        "difficulty": "Hard",
-        "contentType": "Article"
-    },
-    {
-        "id": 3,
-        "title": "Data Structures and Algorithms",
-        "subject": "Computer Science",
-        "difficulty": "Medium",
-        "contentType": "Course"
-    },
-    {
-        "id": 4,
-        "title": "Machine Learning Basics",
-        "subject": "AI & Machine Learning",
-        "difficulty": "Medium",
-        "contentType": "Video"
-    },
-    {
-        "id": 5,
-        "title": "Database Management Systems",
-        "subject": "Database",
-        "difficulty": "Hard",
-        "contentType": "Book"
-    },
-    {
-        "id": 6,
-        "title": "Cybersecurity Fundamentals",
-        "subject": "Cybersecurity",
-        "difficulty": "Easy",
-        "contentType": "Article"
-    },
-    {
-        "id": 7,
-        "title": "Web Development with React",
-        "subject": "Web Development",
-        "difficulty": "Medium",
-        "contentType": "Course"
-    }
+  {
+    "id": 1,
+    "title": "Introduction to JavaScript",
+    "subject": "Computer Science",
+    "difficulty": "Easy",
+    "contentType": "Video"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Python Programming",
+    "subject": "Python",
+    "difficulty": "Hard",
+    "contentType": "Article"
+  },
+  {
+    "id": 4,
+    "title": "Machine Learning Basics",
+    "subject": "AI & Machine Learning",
+    "difficulty": "Medium",
+    "contentType": "Video"
+  },
+  {
+    "id": 5,
+    "title": "Database Management Systems",
+    "subject": "Database",
+    "difficulty": "Hard",
+    "contentType": "Book"
+  },
+  {
+    "id": 6,
+    "title": "Cybersecurity Fundamentals",
+    "subject": "Cybersecurity",
+    "difficulty": "Easy",
+    "contentType": "Article"
+  },
+  {
+    "id": 7,
+    "title": "Web Development with React",
+    "subject": "Web Development",
+    "difficulty": "Medium",
+    "contentType": "Course"
+  },
+  {
+    "id": 8
+  },
+  {
+    "id": 9
+  },
+  {
+    "id": 10,
+    "title": "Advanced Python Programming",
+    "subject": "Python",
+    "difficulty": "Hard",
+    "contentType": "Article"
+  },
+  {
+    "id": 11,
+    "title": "Advanced Python Programming",
+    "subject": "Python",
+    "difficulty": "Hard",
+    "contentType": "Article"
+  }
 ]
